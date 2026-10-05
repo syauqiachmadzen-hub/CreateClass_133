@@ -19,3 +19,5 @@ print(objek_jajar)
 
 print("Keliling:", objek_jajar.hitung_keliling(), "cm")
 print("Luas:", objek_jajar.hitung_luas(), "cm2")
+
+#keterangan
